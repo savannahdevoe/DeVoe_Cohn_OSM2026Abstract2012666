@@ -1,0 +1,17 @@
+References:
+[1] Bagnold, R. A. (1937). The transport of sand by wind. The Geographical Journal, 89(5), 409-438.
+[2] Houser, C. (2009). Synchronization of transport and supply in beach-dune interaction. Progress in Physical Geography, 33(6), 733-746.
+[3] De Vries, S., de Vries, J. V. T., Van Rijn, L. C., Arens, S. M., & Ranasinghe, R. W. M. R. J. B. (2014). Aeolian sediment transport in supply limited situations. Aeolian Research, 12, 75-85.
+[4] Wiggs, G. F. S., Baird, A. J., & Atherton, R. J. (2004). The dynamic effects of moisture on the entrainment and transport of sand by wind. Geomorphology, 59(1-4), 13-30.
+[5] Scheidt, S., Ramsey, M., & Lancaster, N. (2010). Determining soil moisture and sediment availability at White Sands Dune Field, New Mexico, from apparent thermal inertia data. Journal of Geophysical Research: Earth Surface, 115(F2).
+[6] Hallin, C., van IJzendoorn, C., Homberger, J. M., & de Vries, S. (2023). Simulating surface soil moisture on sandy beaches. Coastal Engineering, 185, 104376.
+[7] Raubenheimer, B., Guza, R. T., & Elgar, S. (1999). Tidal water table fluctuations in a sandy ocean beach. Water Resources Research, 35(8), 2313-2320.
+[8] Heiss, J. W., Ullman, W. J., & Michael, H. A. (2014). Swash zone moisture dynamics and unsaturated infiltration in two sandy beach aquifers. Estuarine, Coastal and Shelf Science, 143, 20-31.
+[9] Brakenhoff, L. B., Smit, Y., Donker, J. J., & Ruessink, G. (2019). Tide‐induced variability in beach surface moisture: Observations and modelling. Earth Surface Processes and Landforms, 44(1), 317-330.
+[10] Benoit, D. M., Delisle, M. P. C., Siemens, G., Raubenheimer, B., Elgar, S., & Mulligan, R. P. (2025). Groundwater hydrodynamic oscillations from swash with transparent sand (GHOSTS). Journal of Geophysical Research: Oceans, 130(3), e2024JC021293.
+[11] Sherman, D. J., & Li, B. (2012). Predicting aeolian sand transport rates: A reevaluation of models. Aeolian Research, 3(4), 371-378.
+[12] Hoonhout, B. M., & Vries, S. D. (2016). A process‐based model for aeolian sediment transport and spatiotemporal varying sediment availability. Journal of Geophysical Research: Earth Surface, 121(8), 1555-1575.
+[13] van IJzendoorn, C. O., Hallin, C., Reniers, A. J. H. M., & de Vries, S. (2023). Modeling multi‐fraction coastal aeolian sediment transport with horizontal and vertical grain‐size variability. Journal of Geophysical Research: Earth Surface, 128(7), e2023JF007155.
+[14] de Vries, S., Hallin, C., van IJzendoorn, C., van Westen, B., Cohn, N., Strypsteen, G., Skaden, J., Agrawal, N., & Garcia Alvarez, M. (2023). AeoLiS (Version 3.0.1) [Computer software]. https://github.com/openearth/aeolis-python
+[15] Stockdon, H. F., Holman, R. A., Howd, P. A., & Sallenger Jr, A. H. (2006). Empirical parameterization of setup, swash, and runup. Coastal engineering, 53(7), 573-588.
+[16] Fiedler, J. W., Young, A. P., Ludka, B. C., O’Reilly, W. C., Henderson, C., Merrifield, M. A., & Guza, R. T. (2020). Predicting site-specific storm wave run-up. Natural Hazards, 104(1), 493-517.
